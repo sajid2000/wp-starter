@@ -1,0 +1,1 @@
+<h3>Default page</h3>
