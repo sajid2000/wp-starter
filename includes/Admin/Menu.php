@@ -86,4 +86,4 @@ class Menu {
     }
 }
 
-new Ajax();
+
