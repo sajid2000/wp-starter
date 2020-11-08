@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WP Starter Plugin 2
+ * Plugin Name: WP Starter Plugin
  * Plugin URI: https://example.com/
  * Description: A WordPress starter plugin
  * Version: 1.0.0
